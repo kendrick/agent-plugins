@@ -35,3 +35,7 @@ The `@kendrick` suffix is the marketplace's name, set in [`.claude-plugin/market
 ## Issues
 
 This marketplace isn't taking contributions right now. To report a bug in a plugin, open an issue on that plugin's repo.
+
+## License
+
+[MIT](LICENSE)
