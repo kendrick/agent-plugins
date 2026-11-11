@@ -1,0 +1,12 @@
+{
+	"name": "kendrick",
+	"description": "Kendrick Arnett's plugins for coding agents",
+	"owner": { "name": "Kendrick Arnett" },
+	"plugins": [
+		{
+			"name": "handoff-on-compact",
+			"description": "Turns Claude Code compaction into a resumable handoff document",
+			"source": { "source": "url", "url": "https://github.com/kendrick/handoff-on-compact.git" }
+		}
+	]
+}
