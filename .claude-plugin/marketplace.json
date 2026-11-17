@@ -12,6 +12,11 @@
 			"name": "ux-punchlist",
 			"description": "Review a running app one item at a time, with comments and approvals logged to an append-only file",
 			"source": { "source": "url", "url": "https://github.com/kendrick/ux-punchlist.git" }
+		},
+		{
+			"name": "working-memory-kit",
+			"description": "Drafts working memory for an existing project from its code, git history, README, and ADRs",
+			"source": { "source": "url", "url": "https://github.com/kendrick/working-memory-kit.git" }
 		}
 	]
 }
