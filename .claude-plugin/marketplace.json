@@ -12,6 +12,11 @@
 			"name": "ux-punchlist",
 			"description": "Review a running app one item at a time, with comments and approvals logged to an append-only file",
 			"source": { "source": "url", "url": "https://github.com/kendrick/ux-punchlist.git" }
+		},
+		{
+			"name": "working-memory-kit",
+			"description": "Two-tier working memory for coding agents. /working-memory-kit:init runs the kit's installer in your project",
+			"source": { "source": "url", "url": "https://github.com/kendrick/working-memory-kit.git" }
 		}
 	]
 }

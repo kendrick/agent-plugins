@@ -12,6 +12,7 @@ Everything here is a Claude Code plugin for now. If you use Codex, Antigravity, 
 | --- | --- |
 | [handoff-on-compact](https://github.com/kendrick/handoff-on-compact) | Turns Claude Code compaction into a resumable handoff document |
 | [ux-punchlist](https://github.com/kendrick/ux-punchlist) | Review a running app one item at a time, with comments and approvals logged to an append-only file |
+| [working-memory-kit](https://github.com/kendrick/working-memory-kit) | Two-tier working memory for coding agents. `/working-memory-kit:init` runs the kit's installer in your project |
 
 ## Install
 
